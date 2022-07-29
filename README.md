@@ -2,7 +2,7 @@
 
 HPMUDocs 2018 là dự án lưu trữ kiến thức Y học 2018 của MedPocket.
 
-## Người đóng góp
+## Đóng góp cho dự án
 
 - Long Nhật Nguyễn
 - NT31 & NT32 team
